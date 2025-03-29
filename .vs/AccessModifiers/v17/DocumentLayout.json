@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\leyla\\source\\repos\\AccessModifiers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\leyla\\source\\repos\\accessmodifiers\\accessmodifiers\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\leyla\\source\\repos\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\leyla\\source\\repos\\accessmodifiers\\accessmodifiers\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\singer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\leyla\\source\\repos\\accessmodifiers\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\leyla\\source\\repos\\accessmodifiers\\accessmodifiers\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1163580-70D5-481E-B254-1CD0229915FD}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Song.cs",
               "DocumentMoniker": "C:\\Users\\leyla\\source\\repos\\AccessModifiers\\AccessModifiers\\Song.cs",
               "RelativeDocumentMoniker": "AccessModifiers\\Song.cs",
               "ToolTip": "C:\\Users\\leyla\\source\\repos\\AccessModifiers\\AccessModifiers\\Song.cs",
               "RelativeToolTip": "AccessModifiers\\Song.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T16:39:43.209Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "AccessModifiers\\Singer.cs",
               "ToolTip": "C:\\Users\\leyla\\source\\repos\\AccessModifiers\\AccessModifiers\\Singer.cs",
               "RelativeToolTip": "AccessModifiers\\Singer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T16:29:44.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\leyla\\source\\repos\\AccessModifiers\\AccessModifiers\\Program.cs",
               "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
               "ToolTip": "C:\\Users\\leyla\\source\\repos\\AccessModifiers\\AccessModifiers\\Program.cs",
               "RelativeToolTip": "AccessModifiers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAMDMzMzPjvw4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T16:28:49.683Z",
               "EditorCaption": ""

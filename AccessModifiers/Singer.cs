@@ -10,28 +10,29 @@ namespace AccessModifiers
     {
         public string Name { get; set; }
         public string Surname { get; set; }
-        public string Age { get; set; }
+        public byte Age { get; set; }
 
 
 
-        public Singer(string name, string surname, string age) 
+
+        public void Limit(string name, string surname, byte age)
         {
-            Name = name;
-            Surname = surname;
-            Age = age;
-        }
-
-
-        public void Limit(string name, string surname, string age)
-        {
-            if(name.Length > 100 || surname.Length > 100) 
+            if(name.Length <= 100 && surname.Length <= 100) 
             {
-                Console.WriteLine("Ad ve ya Soyadin limiti 100u ashib");
+                Console.WriteLine($"Singer's Name: {name}, Singer's Surname: {surname}");
+            }
+            else
+            {
+                Console.WriteLine("Name or Surname limit over 100");
             }
 
-            if(age.Length > 100)
+            if (age <= 170)
             {
-                Console.WriteLine("Yasin limiti 100u ashib");
+                Console.WriteLine($"Age: {age}");
+            }
+            else
+            {
+                Console.WriteLine("Age limit over 170");
             }
 
         }

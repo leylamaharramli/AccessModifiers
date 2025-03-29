@@ -1,10 +1,24 @@
 ﻿namespace AccessModifiers
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            Singer singer1 = new Singer();
+            singer1.Limit("Muslum", "Gurses", 74);
+
+            Song song = new Song();
+            song.Max("Affet", "Pop");
+
+
+
+            song.AddRating(1);
+            song.AddRating(7);
+            song.AddRating(9);
+            song.AddRating(5);
+
+
+            song.GetAverageRating();
         }
     }
 }
