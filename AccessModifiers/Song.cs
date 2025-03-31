@@ -34,7 +34,7 @@ namespace AccessModifiers
             }
         }
 
-        int RatingSum = 0;
+        float RatingSum = 0;
         int RatingCount = 0;
         public void AddRating(int rating)
         {
