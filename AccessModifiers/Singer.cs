@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AccessModifiers
 {
-    class Singer
+    public class Singer
     {
         public string Name { get; set; }
         public string Surname { get; set; }

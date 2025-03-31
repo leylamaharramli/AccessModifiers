@@ -8,7 +8,7 @@
             singer1.Limit("Muslum", "Gurses", 74);
 
             Song song = new Song();
-            song.Max("Affet", "Pop");
+            song.Max("Affet", "Pop", singer1);
 
 
 

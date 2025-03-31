@@ -10,10 +10,10 @@ namespace AccessModifiers
     {
         public string Name { get; set; }
         public string Genre { get; set; }
+        
 
 
-
-        public void Max(string name, string genre)
+        public void Max(string name, string genre, Singer singer1)
         {
             if (name.Length > 100)
             {
